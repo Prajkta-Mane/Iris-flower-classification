@@ -8,7 +8,7 @@ Original file is located at
 
 **LetsGrowMore: Data Science Internship**
 
-Author: Ms.Sujata Vijay Patil
+Author: Ms.Prajkta Shivaji Mane.
 
 Task 1: Iris Flowers Classification ML Project
 
